@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    padding: 0;
+    
+    background: url(mobile.jpg) no-repeat;
+    background-size:cover;
+}
+.login-box{
+    width: 280px;
+    position: relative;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.login-box h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 7px solid #009999;
+    margin-bottom: 40px;
+    padding: 15px;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #009999;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: beige;
+    font-size: 19px;
+    width: 80px;
+    float:left;
+    margin:0 10px;
+}
+.bob{
+    width: 100%;
+    background: none;
+    color: white;
+    padding: 6px;
+    border: 1px solid #009999;
+    font-size: 17px;
+    cursor: pointer;
+    margin: 10px;
+}
+input.search {
+    width: 20em;  height: 2em;
+ background-color: #009999;
+}
+    
+}
+.textbox input:focus ~ label{
+    top: -18px;
+    left: 0;
+    color: #f7497d;
+    font-size:16px;
+    font-weight: bold;
+}
+.textbox input:focus{
+    border-bottom: 2px solid #1a10a1;
+}
