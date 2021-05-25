@@ -1,4 +1,4 @@
-# Mobiles-Shopping-Website-
+# Mobiles-Shopping-Website
 Mobile Shopping Website is developed using HTML, CSS, JavaScript, JQuery &amp; PHP. HTML &amp; CSS is used for Layout of the webpages, where as JavaScript is used for form validation. MySQL is used for database storage(for storing user's information) with help of PHP.
 
 1. Client Side:
