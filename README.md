@@ -12,8 +12,6 @@ HOME PAGE:
 
 ![image](https://user-images.githubusercontent.com/75978651/119519721-4af1bd00-bd97-11eb-999d-6537a6e492ab.png)
 
-![image](https://user-images.githubusercontent.com/75978651/119519773-56dd7f00-bd97-11eb-82ae-f1450f9e8cdd.png)
-
 SHOPPING CART:
 
 ![image](https://user-images.githubusercontent.com/75978651/119519845-66f55e80-bd97-11eb-9dcc-6849a6d61e31.png)
@@ -24,4 +22,9 @@ SIGN IN PAGE:
 
 ADD TO CART PAGE:
 
-![image](https://user-images.githubusercontent.com/75978651/119519989-84c2c380-bd97-11eb-9c35-9ec2c6bba0c4.png)
+![image](https://user-images.githubusercontent.com/75978651/119520496-f864d080-bd97-11eb-800f-71a6fe9d5a86.png)
+
+ABOUT US PAGE: 
+
+![image](https://user-images.githubusercontent.com/75978651/119520899-51346900-bd98-11eb-8b40-4b8215ed8040.png)
+
