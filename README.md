@@ -6,7 +6,7 @@ At client side, we have firstly presented our website’s home page where we hav
 
 2. Server Side:
 On server side, javascript is used for form validation. In form validation, there are certain criteria like particular field should not be empty.
-PHP is used for database connectivity & Database used is MySQL.. When a customer logs in into the website, their information will be stored in the database. 
+PHP is used for database connectivity & Database used is MySQL. When a customer logs in into the website, their information will be stored in the database. 
 
 HOME PAGE:
 
